@@ -1,190 +1,102 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sompartha%20Sinha&fontSize=80&fontAlignY=35&desc=Civil%20Engineering%20%7C%20Data%20Science%20%7C%20Software%20Engineer&descAlignY=65" />
-</p>
+<!-- ======================================================================================= -->
+<!--                                   SOMPARTHA SINHA                                       -->
+<!--                        Premium GitHub Profile README v2.0                               -->
+<!-- ======================================================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=500&lines=Building+Scalable+Solutions;AI+Driven+Engineering;Full+Stack+Developer" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jadavpur%20University-B.E.%20Construction-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IIT%20Madras-Data%20Science-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kolkata-India-lightgrey?style=for-the-badge" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F172A,18:1E1B4B,40:312E81,62:4338CA,82:6D28D9,100:8B5CF6&text=Sompartha%20Sinha&fontColor=FFFFFF&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Machine%20Learning%20•%20Quantitative%20Research&descSize=20&descAlignY=60"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sompartha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sinhasompartha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/sompartha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sompartha&label=Profile%20Views&color=7B68EE&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/sompartha?style=flat-square&color=7B68EE" />
-  <img src="https://img.shields.io/github/stars/sompartha?style=flat-square&color=7B68EE" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=1100&lines=Building+Production-Ready+Software;Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Quantitative+Research+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning.+Always+Building."/>
 
----
+<br><br>
 
-## 👨‍💻 About Me
+<img src="https://img.shields.io/badge/IIT_Madras-Diploma_in_Data_Science_&_Applications-312E81?style=for-the-badge&logoColor=white"/>
 
-Passionate Software Engineer and Data Science enthusiast with a background in Construction Engineering from Jadavpur University. I thrive at the intersection of complex problem-solving and scalable software architecture. My expertise spans AI/ML modeling, quantitative finance analysis, and full-stack web development. I focus on building data-driven systems that deliver actionable insights and high performance.
+<img src="https://img.shields.io/badge/Software-Engineer-4338CA?style=for-the-badge"/>
 
-*   **Engineering Mindset:** Bridging structural logic with digital efficiency.
-*   **AI/ML:** Specializing in predictive modeling, computer vision, and NLP.
-*   **Full Stack:** Building robust web applications with modern tech stacks.
-*   **Open to:** Collaboration on research, software projects, and AI implementation.
+<img src="https://img.shields.io/badge/Artificial_Intelligence-Engineer-5B21B6?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Machine_Learning-Engineer-6D28D9?style=for-the-badge"/>
 
-## 🛠 Tech Stack
+<img src="https://img.shields.io/badge/Quantitative-Research-7C3AED?style=for-the-badge"/>
 
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://img.shields.io/badge/Open_Source-Contributor-4F46E5?style=for-the-badge"/>
 
-### Frontend & Web
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<br><br>
 
-### Backend & Databases
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/Kolkata-India-1E1B4B?style=flat-square&logo=googlemaps&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Open_to-Software_Engineering-4338CA?style=flat-square"/>
 
-## 🧠 AI / ML Expertise
+<img src="https://img.shields.io/badge/Open_to-AI_&_ML-6D28D9?style=flat-square"/>
 
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| Computer Vision | Advanced | Captcha solving via CRNN & PyTorch |
-| Predictive Analytics | Intermediate | Crop yield forecasting via Random Forest |
-| Quantitative Finance | Advanced | Black-Scholes modeling & Backtesting |
-| Data Engineering | Advanced | Multilevel feature engineering & preprocessing |
+<img src="https://img.shields.io/badge/Open_to-Research-8B5CF6?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/sompartha">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sompartha-sinha-46b055298/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sinhasompartha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=sompartha&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/sompartha?style=for-the-badge&color=4338CA)
+
+![](https://img.shields.io/github/stars/sompartha?affiliations=OWNER&style=for-the-badge&color=6D28D9)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# About Me
 
-<details>
-<summary><b>NIFTY 50 SMA Crossover Backtesting Strategy</b></summary>
+> **Software Engineer focused on Artificial Intelligence, Machine Learning, Backend Engineering, and Quantitative Computing. Passionate about building scalable software systems, research-driven AI applications, and production-quality developer tools.**
 
-| Stack | Scale | Performance | Security | Impact |
-| :--- | :--- | :--- | :--- | :--- |
-| Python, Pandas, NumPy | 15 years data | 25.49% ROI | Robust | Quantitative Research |
+I enjoy solving challenging engineering problems by combining **software engineering**, **machine learning**, and **data-driven decision making**. My work emphasizes clean architecture, maintainability, experimentation, and measurable impact.
 
-Systematic trend-following engine for market data analysis (2010-2025). Features include strategy benchmarking, drawdown analysis, and equity-curve visualization.
-</details>
+Currently, my primary areas of focus include:
 
-<details>
-<summary><b>Black-Scholes Analytics Dashboard</b></summary>
-
-| Stack | Scale | Performance | Security | Impact |
-| :--- | :--- | :--- | :--- | :--- |
-| Flask, Plotly, NumPy | Real-time | High | Verified | Financial Analytics |
-
-Quantitative finance platform for European option pricing, Greeks computation, and Monte Carlo simulation.
-</details>
+- Artificial Intelligence
+- Machine Learning
+- Backend Engineering
+- Full Stack Development
+- Quantitative Finance
+- Competitive Programming
+- Open Source
+- Research Engineering
 
 ---
 
-## 💼 Experience
+# Engineering Philosophy
 
-### AI/ML Intern | GrowGlobal
-*Feb 2025 - June 2025*
-* Engineered a high-performance CAPTCHA solving system in PyTorch (>97% accuracy).
-* Architected CRNN model with CTC loss for multi-character label management.
-* Deployed via Flask API and Chrome Extension for sub-100ms inference.
+```text
+Think Deeply.
 
-### Research Intern | Indian Statistical Institute (ISI)
-*June 2025 - Aug 2025*
-* Developing ML-driven crop yield prediction pipeline.
-* Consolidating fragmented agricultural datasets for multilevel feature engineering.
-* Benchmarking predictive accuracy across various ML strategies and historical datasets.
+Build Thoughtfully.
 
----
+Measure Everything.
 
-## 🏆 Achievements
+Optimize Relentlessly.
 
-<p align="center">
+Automate Repeated Work.
 
-| Recognition | Details |
-| :--- | :--- |
-| Academic Excellence | Jadavpur University Construction Engineering |
-| Data Science Scholar | IIT Madras Diploma in Data Science |
-| Competitive Programmer | Top performer in algorithmic problem solving |
+Learn Continuously.
 
-</p>
-
----
-
-## 📜 Certifications
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle-Database-red?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/NPTEL-Data_Science-blue?style=for-the-badge)
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sompartha&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sompartha&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sompartha&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sompartha&theme=radical&no-bg=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sompartha&theme=xcode-dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sompartha/sompartha/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning: Advanced Deep Learning Architectures
-Building: Scalable Quantitative Finance Dashboards
-Exploring: LLM Fine-Tuning & Deployment
-Open To: Full-time Software Engineering roles
+Never Compromise On Code Quality.
