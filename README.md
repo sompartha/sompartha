@@ -1,22 +1,18 @@
 <div align="center">
 
-<img src="./assets/banner/banner.png" width="100%" alt="Banner"/>
+<h1>Sompartha Sinha</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Quantitative+Researcher;Machine+Learning+Engineer;Artificial+Intelligence+Engineer;Software+Engineer;Competitive+Programmer"/>
 
 <br>
 
-# Sompartha Sinha
-
-### Software Engineer • Artificial Intelligence • Machine Learning • Quantitative Research
+<p>
+Building intelligent software systems across Artificial Intelligence, Machine Learning,
+Quantitative Research, and Software Engineering.
+</p>
 
 <p>
-
-Building intelligent software systems that combine mathematics, machine learning,
-software engineering, and quantitative finance.
-
-Currently pursuing a **BS in Data Science & Applications** at **IIT Madras** while
-building production-grade projects across AI, backend engineering, and
-quantitative research.
-
+Currently pursuing <b>BS in Data Science & Applications at IIT Madras</b>.
 </p>
 
 <br>
