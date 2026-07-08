@@ -591,17 +591,6 @@ Production Systems
 My GitHub profile reflects my continuous work in software engineering, artificial intelligence, quantitative research, and open-source development.
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sompartha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sompartha&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
 <div align="center">
 
 ## Contribution Streak
@@ -622,14 +611,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=sompartha&th
 
 </div>
 
----
-## GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sompartha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</div>
 ---
 
 # Repository Highlights
