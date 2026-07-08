@@ -1,6 +1,14 @@
-<div align="center">
+<p align="center">
 
-<h1>Sompartha Sinha</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:312E81,100:7C3AED&height=120&section=header&text=Sompartha%20Sinha&fontSize=52&fontColor=FFFFFF&fontAlignY=50"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Quantitative+Researcher;Machine+Learning;Artificial+Intelligence;Software+Engineering;Competitive+Programmer"/>
+
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Quantitative+Researcher;Machine+Learning+Engineer;Artificial+Intelligence+Engineer;Software+Engineer;Competitive+Programmer"/>
 
