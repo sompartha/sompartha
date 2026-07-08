@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,45:F5F3FF,100:EDE9FE&height=120&section=header&text=Sompartha%20Sinha&fontSize=52&fontColor=4C1D95&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Sompartha%20Sinha&fontSize=54&fontColor=FFFFFF&color=0:1E293B,35:4338CA,70:7C3AED,100:C084FC"/>
 
 </p>
 
