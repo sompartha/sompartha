@@ -760,80 +760,6 @@ Current areas of study include
 
 ---
 
-# Research Interests
-
-I am interested in combining mathematics, probability, statistics, and software engineering to solve challenging problems in quantitative finance and artificial intelligence.
-
-My long-term goal is to contribute to publishable research while building production-ready software systems.
-
----
-
-## Current Research Areas
-
-### Quantitative Finance
-
-- Financial Machine Learning
-- Derivatives Pricing
-- Market Microstructure
-- Statistical Arbitrage
-- Portfolio Analytics
-- Risk Modeling
-
----
-
-### Artificial Intelligence
-
-- Large Language Models
-- Agentic AI
-- Retrieval-Augmented Generation
-- Computer Vision
-- Deep Learning
-- Reinforcement Learning
-
----
-
-### Software Engineering
-
-- Distributed Systems
-- Backend Engineering
-- Cloud Computing
-- High Performance Computing
-- System Design
-- API Engineering
-
----
-
-# Career Vision
-
-My objective is to build software that combines
-
-- Mathematics
-- Machine Learning
-- Artificial Intelligence
-- Software Engineering
-- Quantitative Finance
-
-into intelligent systems capable of solving real-world engineering and financial problems.
-
-I aspire to contribute to research-driven engineering teams working on high-performance software, quantitative research, and AI systems.
-
----
-
-# Engineering Philosophy
-
-I believe great engineering is built on four pillars.
-
-| Principle | Philosophy |
-|------------|------------|
-| Mathematics | Strong theoretical foundations lead to better engineering decisions. |
-| Simplicity | Simple solutions scale better than unnecessarily complex ones. |
-| Performance | Efficient algorithms matter just as much as functionality. |
-| Reproducibility | Every experiment should be easy to reproduce and verify. |
-
----
-
-# Current Focus
-
 ```yaml
 Education:
   - BS in Data Science & Applications
@@ -1051,22 +977,6 @@ Documentation
      ▼
 Deployment
 ```
-
----
-
-# Open Source Philosophy
-
-I believe open-source projects should be:
-
-- Well documented
-- Easy to reproduce
-- Modular
-- Maintainable
-- Scalable
-- Useful to the engineering community
-
-Every public repository is an opportunity to demonstrate engineering quality, not simply showcase code.
-
 ---
 
 <div align="center">
@@ -1075,12 +985,6 @@ Every public repository is an opportunity to demonstrate engineering quality, no
 
 </div>
 
----
-# Competitive Programming
-
-Competitive programming is my primary platform for improving algorithmic thinking, writing optimized code, and strengthening problem-solving skills for software engineering and quantitative research.
-
----
 
 <div align="center">
 
@@ -1103,74 +1007,6 @@ Competitive programming is my primary platform for improving algorithmic thinkin
 </a>
 
 </div>
-
----
-
-# Current Algorithmic Focus
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## Data Structures
-
-- Fenwick Tree
-- Segment Tree
-- Sparse Table
-- Union Find
-- Trie
-- Binary Indexed Tree
-
-</td>
-
-<td width="50%">
-
-## Algorithms
-
-- Dynamic Programming
-- Bitmask DP
-- Graph Algorithms
-- Tree Algorithms
-- Binary Search
-- String Algorithms
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## Mathematics
-
-- Number Theory
-- Combinatorics
-- Probability
-- Matrix Exponentiation
-- Modular Arithmetic
-
-</td>
-
-<td width="50%">
-
-## Optimization
-
-- Greedy
-- Divide & Conquer
-- Prefix Sums
-- Sliding Window
-- Two Pointers
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # Achievements
 
