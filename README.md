@@ -421,18 +421,6 @@ Object-Oriented Programming • Desktop Applications • Database Systems • So
 
 ---
 
-# Additional Engineering Projects
-
-| Project | Description |
-|---------|-------------|
-| ResearchBoT | Retrieval-Augmented Generation (RAG) system with vector search and LLM integration. |
-| CAPTCHA Recognition System | Deep learning OCR pipeline using CRNN + CTC Loss for CAPTCHA solving. |
-| Crop Yield Prediction | Machine learning framework for agricultural yield forecasting using weather and environmental datasets. |
-| Linear Regression from Scratch | Mathematical implementation of Linear Regression without ML libraries. |
-| Stock Analyzer | JavaFX application for stock analysis and visualization. |
-
----
-
 # Engineering Metrics
 
 ```text
@@ -606,13 +594,9 @@ My GitHub profile reflects my continuous work in software engineering, artificia
 
 <div align="center">
 
-## GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=sompartha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=sompartha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sompartha&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sompartha&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -639,84 +623,13 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=sompartha&th
 </div>
 
 ---
+## GitHub Trophies
 
 <div align="center">
 
-## GitHub Trophies
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=sompartha&theme=tokyonight&column=4&margin-w=20&margin-h=20&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sompartha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </div>
-
----
-
-# Development Activity
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## Software Engineering
-
-- Backend Development
-- API Engineering
-- Database Systems
-- System Design
-- Object-Oriented Programming
-- Performance Optimization
-
-</td>
-
-<td width="50%">
-
-## Artificial Intelligence
-
-- Deep Learning
-- Machine Learning
-- Computer Vision
-- NLP
-- LLM Applications
-- Agentic AI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## Quantitative Finance
-
-- Black–Scholes
-- Options Pricing
-- Monte Carlo Methods
-- Strategy Backtesting
-- Risk Analytics
-- Financial ML
-
-</td>
-
-<td width="50%">
-
-## Research
-
-- Statistical Learning
-- Feature Engineering
-- Model Evaluation
-- Reproducible Experiments
-- Time Series
-- Optimization
-
-</td>
-
-</tr>
-
-</table>
-
 ---
 
 # Repository Highlights
