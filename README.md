@@ -1,30 +1,27 @@
-name: Generate Contribution Snake
+---
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+## Connect
 
-permissions:
-  contents: write
+<div align="center">
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+<a href="mailto:somparthasinha.sinha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: sompartha
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<a href="https://www.linkedin.com/in/sompartha-sinha-46b055298/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<a href="https://github.com/sompartha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### *Building software that bridges mathematics, intelligence, and engineering.*
+
+</div>
