@@ -180,34 +180,6 @@ Learning:
 
 ---
 
-# Development Philosophy
-
-I believe software should satisfy three properties:
-
-### Correctness
-
-Algorithms should be mathematically sound and thoroughly tested.
-
----
-
-### Scalability
-
-Systems should remain maintainable as complexity increases.
-
----
-
-### Reproducibility
-
-Research and engineering work should be documented and reproducible.
-
----
-
-### Simplicity
-
-Elegant solutions outperform unnecessarily complicated designs.
-
----
-
 # Currently Exploring
 
 ```yaml
