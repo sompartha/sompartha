@@ -6,10 +6,6 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Quantitative+Researcher;Machine+Learning;Artificial+Intelligence;Software+Engineering;Competitive+Programmer"/>
-
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Quantitative+Researcher;Machine+Learning+Engineer;Artificial+Intelligence+Engineer;Software+Engineer;Competitive+Programmer"/>
 
 <br>
