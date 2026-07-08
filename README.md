@@ -1,19 +1,30 @@
-<div align="center">
+name: Generate Contribution Snake
 
-<img src="assets/banner/banner.png" width="100%" alt="Sompartha Sinha Banner"/>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-</div>
+permissions:
+  contents: write
 
-<br>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
 
-<div align="center">
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: sompartha
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-# Sompartha Sinha
-
-### Software Engineer • Artificial Intelligence • Machine Learning • Quantitative Researcher
-
-Building production-grade software, AI systems, and quantitative finance tools with a focus on clean architecture, scalable engineering, and research-driven innovation.
-
-</div>
-
----
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
